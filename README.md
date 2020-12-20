@@ -39,6 +39,8 @@
 
 # NOTE:- OPEN CONFIG.PLIST AND INSERT APPROPRIATE PLATFORM INFO (SERIAL, UUID ETC) BEFORE INSTALLING.
 
+## Additional:- Touchpad will probably not work during installation. Keep Usb Mouse handy.
+
 ## Credits
 - Special Thanks to [Hasodikis](https://github.com/Hasodikis).
 - Thanks to [Acidanthera](https://github.com/acidanthera) for providing [AppleALC](https://github.com/acidanthera/AppleALC), [AppleSupportPkg](https://github.com/acidanthera/AppleSupportPkg), [HibernationFixup](https://github.com/acidanthera/HibernationFixup), [Lilu](https://github.com/acidanthera/Lilu), [OcBinaryData](https://github.com/acidanthera/OcBinaryData), [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg), [VirtualSMC](https://github.com/acidanthera/VirtualSMC), [VoodooInput](https://github.com/acidanthera/VoodooInput), [VoodooPS2](https://github.com/acidanthera/VoodooPS2), and [WhateverGreen](https://github.com/acidanthera/WhateverGreen).
