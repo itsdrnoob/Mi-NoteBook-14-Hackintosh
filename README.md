@@ -18,7 +18,7 @@
 
 ## What Works
 - Intel UHD Graphics
-- Wifi (Install Heliport after installation. Included in [Post-Install/](https://github.com/itsdrnoob/Mi-Notebook-14-Hackintosh/tree/master/Post-Install).
+- Wifi (Install Heliport and add it to Login items. Included in [Post-Install/](https://github.com/itsdrnoob/Mi-Notebook-14-Hackintosh/tree/master/Post-Install).
 - Touchpad including Gestures
 - Keyboard
 - Audio (Both Speaker and Headphones)
