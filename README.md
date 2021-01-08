@@ -23,6 +23,7 @@ Tested on i3 & i5 models, yet to test on i7(horizon)
 - Bluetooth
 - Touchpad including Gestures
 - Keyboard
+- Webcam (Tested on i3 model)
 - Audio (Both Speaker and Headphones)
 - Battery Manager
 - Brightness
@@ -35,7 +36,7 @@ Tested on i3 & i5 models, yet to test on i7(horizon)
 - iMessages (IG it'll work after SMBIOS edit) 
 
 ## Not Tested
-- Camera (No inbuilt camera. I forgot to order webcam along with laptop xD).
+- ~~Camera (No inbuilt camera. I forgot to order webcam along with laptop xD).~~ Works on i3 model, not tested on any other.
 - Facetime (No Webcam. Will most likely work after changing SMBIOS).
 
 
