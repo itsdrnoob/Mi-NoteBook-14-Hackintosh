@@ -1,4 +1,5 @@
 # [SUCCESS] Mi-Notebook-14-Hackintosh
+Tested on i3 & i5 models, yet to test on i7(horizon)
 
 
 
@@ -18,7 +19,8 @@
 
 ## What Works
 - Intel UHD Graphics
-- Wifi (Install Heliport and add it to Login items. Included in [Post-Install/](https://github.com/itsdrnoob/Mi-Notebook-14-Hackintosh/tree/master/Post-Install).
+- Wifi
+- Bluetooth
 - Touchpad including Gestures
 - Keyboard
 - Audio (Both Speaker and Headphones)
@@ -28,7 +30,7 @@
 
 ## What's Broken
 - HDMI (Will Update if fixed)
-- Bluetooth (Will Update if fixed)
+- ~~Bluetooth (Will Update if fixed)~~ FIXED
 - Microphone (Will Update if fixed)
 - iMessages (IG it'll work after SMBIOS edit) 
 
