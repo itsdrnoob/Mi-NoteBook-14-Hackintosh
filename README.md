@@ -8,7 +8,7 @@ Tested on i3 & i5 models, yet to test on i7(horizon)
 | Specifications | Detail                                                  |
 | ------------------- | ------------------------------------------- |
 | Laptop model      | Mi Notebook 14 2020     |
-| Processor           | Intel Core i5-10210U         |
+| Processor           | Intel Core i5-10210U / i3-10110U        |
 | Memory              | 8GB Samsung DDR4 2666MHz              |
 | Hard Disk           | SATA SSD Controller                |
 | Integrated Graphics | Intel UHD Graphics 620                     |
