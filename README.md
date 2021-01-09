@@ -25,6 +25,7 @@ Tested on i3 & i5 models, yet to test on i7(horizon)
 - Keyboard
 - Webcam (Tested on i3 model)
 - Audio (Both Speaker and Headphones)
+- Microphone (Only headset. Fix below)
 - Battery Manager
 - Brightness
 - Almost Everything Important xD.
@@ -32,12 +33,20 @@ Tested on i3 & i5 models, yet to test on i7(horizon)
 ## What's Broken
 - HDMI (Will Update if fixed)
 - ~~Bluetooth (Will Update if fixed)~~ FIXED
-- Microphone (Will Update if fixed)
+- ~~Microphone (Will Update if fixed)~~ HEADPHONE MICROPHONE(FIX BELOW)
 - iMessages (IG it'll work after SMBIOS edit) 
 
 ## Not Tested
 - ~~Camera (No inbuilt camera. I forgot to order webcam along with laptop xD).~~ Works on i3 model, not tested on any other.
 - Facetime (No Webcam. Will most likely work after changing SMBIOS).
+
+## Microphone Fix (Headset)
+- Download Combojack [here.](https://github.com/hackintosh-stuff/ComboJack)
+- Follow the documentation to install combojack.
+- Go to system Preferences > Sound > Input and choose Line In as input device.
+- Insert headphone, combojack pop-up will appear, select headset from the list.
+- Still having an issue, try disabling ambient noise reduction.
+- Done. Enjoy..!
 
 
 # NOTE:- OPEN CONFIG.PLIST AND INSERT APPROPRIATE PLATFORM INFO (SERIAL, UUID ETC) BEFORE INSTALLING.
