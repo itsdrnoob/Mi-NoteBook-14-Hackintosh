@@ -49,7 +49,7 @@ Tested on i3 & i5 models, yet to test on i7(horizon)
 - Done. Enjoy..!
 
 ## iServices
-For iServices fix click [here.](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#generate-a-new-serial)
+For iServices fix click [here.](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html)
 
 # NOTE:- OPEN CONFIG.PLIST AND INSERT APPROPRIATE PLATFORM INFO (SERIAL, UUID ETC) BEFORE INSTALLING.
 
