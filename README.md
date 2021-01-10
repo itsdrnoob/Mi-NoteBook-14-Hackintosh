@@ -13,7 +13,7 @@ Tested on i3 & i5 models, yet to test on i7(horizon)
 | Hard Disk           | SATA SSD Controller                |
 | Integrated Graphics | Intel UHD Graphics 620                     |
 | Sound Card          | Realtek ALC256                             |
-| Wireless Card       | Intel Wireless 9560                        |
+| Wireless Card       | Intel Wireless AC 9462                        |
 | Touchpad            | I2C ELAN2304                               |
 
 
