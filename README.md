@@ -23,6 +23,7 @@ Tested on i3 & i5 models, yet to test on i7(horizon)
 - Bluetooth
 - Touchpad including Gestures
 - Keyboard
+- HDMI
 - Webcam (Tested on i3 model)
 - Audio (Both Speaker and Headphones)
 - Microphone (Only headset. Fix below)
@@ -31,14 +32,13 @@ Tested on i3 & i5 models, yet to test on i7(horizon)
 - Almost Everything Important xD.
 
 ## What's Broken
-- HDMI (Will Update if fixed)
+- ~~HDMI (Will Update if fixed)~~ FIXED
 - ~~Bluetooth (Will Update if fixed)~~ FIXED
 - ~~Microphone (Will Update if fixed)~~ HEADPHONE MICROPHONE(FIX BELOW)
-- iMessages (IG it'll work after SMBIOS edit) 
+- iServices (IG it'll work after SMBIOS edit) 
 
 ## Not Tested
 - ~~Camera (No inbuilt camera. I forgot to order webcam along with laptop xD).~~ Works on i3 model, not tested on any other.
-- Facetime (No Webcam. Will most likely work after changing SMBIOS).
 
 ## Microphone Fix (Headset)
 - Download Combojack [here.](https://github.com/hackintosh-stuff/ComboJack)
