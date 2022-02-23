@@ -1,3 +1,5 @@
+## No longer Maintained!
+
 # [SUCCESS] Mi-Notebook-14-Hackintosh
 Tested on i3 & i5 models, yet to test on i7(horizon)
 
