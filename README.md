@@ -1,6 +1,6 @@
-## No longer Maintained!
+## Not Actively Maintained!
 
-# [SUCCESS] Mi-Notebook-14-Hackintosh
+# [SUCCESS] Mi-Notebook-14-Hackintosh (Ventura 13.0)
 Tested on i3 & i5 models, yet to test on i7(horizon)
 
 
@@ -21,26 +21,24 @@ Tested on i3 & i5 models, yet to test on i7(horizon)
 
 ## What Works
 - Intel UHD Graphics
-- Wifi (Use heliport if inbuilt wifi is not perfectly working).
+- Wifi (Use heliport if inbuilt wifi is buggy).
 - Bluetooth
 - Touchpad including Gestures
 - Keyboard
 - HDMI
 - Webcam (Tested on i3 model)
 - Audio (Both Speaker and Headphones)
-- Microphone (Only headset. Fix below)
+- Microphone (Headphone & Bluetooth. Headphone fix below)
 - Battery Manager
 - Brightness
+- iServices
 - Almost Everything Important xD.
 
 ## What's Broken
-- ~~HDMI (Will Update if fixed)~~ FIXED
-- ~~Bluetooth (Will Update if fixed)~~ FIXED
-- ~~Microphone (Will Update if fixed)~~ HEADPHONE MICROPHONE(FIX BELOW)
-- iServices (IG it'll work after SMBIOS edit) 
-
-## Not Tested
-- ~~Camera (No inbuilt camera. I forgot to order webcam along with laptop xD).~~ Works on i3 model, not tested on any other.
+- Inbuild wifi is buggy sometimes (won't connect).
+- Touchpad gestures (Three-finger swipe back, pinch zoom) randomly stop working for a few seconds once in a while (others like mission control gestures are not affected).
+- AirDrop
+- You tell me :)
 
 ## Microphone Fix (Headset)
 - Download Combojack [here.](https://github.com/hackintosh-stuff/ComboJack)
@@ -49,12 +47,9 @@ Tested on i3 & i5 models, yet to test on i7(horizon)
 - Still having an issue, try disabling ambient noise reduction.
 - Done. Enjoy..!
 
-## iServices
-For iServices fix click [here.](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html)
-
 # NOTE:- OPEN CONFIG.PLIST AND INSERT APPROPRIATE PLATFORM INFO (SERIAL, UUID ETC) BEFORE INSTALLING.
+## Additional:- Internal keyboard doesn't work in opencore boot picker. Use external keyboard.
 
-## Additional:- Touchpad will probably not work during installation. Keep Usb Mouse handy.
 
 ## Credits
 - Thanks to [Acidanthera](https://github.com/acidanthera) for providing [AppleALC](https://github.com/acidanthera/AppleALC), [AppleSupportPkg](https://github.com/acidanthera/AppleSupportPkg), [HibernationFixup](https://github.com/acidanthera/HibernationFixup), [Lilu](https://github.com/acidanthera/Lilu), [OcBinaryData](https://github.com/acidanthera/OcBinaryData), [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg), [VirtualSMC](https://github.com/acidanthera/VirtualSMC), [VoodooInput](https://github.com/acidanthera/VoodooInput), [VoodooPS2](https://github.com/acidanthera/VoodooPS2), and [WhateverGreen](https://github.com/acidanthera/WhateverGreen).
@@ -62,4 +57,5 @@ For iServices fix click [here.](https://dortania.github.io/OpenCore-Post-Install
 - Thanks to [VoodooI2C](https://github.com/VoodooI2C) for providing [VoodooI2C](https://github.com/VoodooI2C/VoodooI2C).
 - Thanks to [ComboJack](https://github.com/hackintosh-stuff/ComboJack)
 - Thanks to [Hasodikis](https://github.com/Hasodikis) (OC 0.6.4).
+- Thanks to [lietxia](https://github.com/lietxia) (OC 0.8.6).
 - Thanks to [Me](https://github.com/itsdrnoob) for fixing everything xDxD.
