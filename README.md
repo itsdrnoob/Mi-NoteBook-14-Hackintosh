@@ -35,7 +35,8 @@ Tested on i3 & i5 models, yet to test on i7(horizon)
 - Almost Everything Important xD.
 
 ## What's Broken
-- Inbuild wifi is buggy sometimes (won't connect).
+- Internal microphone
+- Inbuilt wifi is buggy sometimes (won't connect).
 - Touchpad gestures (Three-finger swipe back, pinch zoom) randomly stop working for a few seconds once in a while (others like mission control gestures are not affected).
 - AirDrop
 - You tell me :)
